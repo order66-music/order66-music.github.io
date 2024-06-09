@@ -1,0 +1,20 @@
+.social-bar-container {
+    margin: 2vh 2vw;
+    display: flex;
+    align-items: center;
+    min-width: 80vw;
+    min-width: 120px;
+}
+.social-bar-container ul {
+    list-style: none;    
+}
+.social-bar-container :first-child {
+    margin-bottom: 5px;
+}
+.social-bar-item {
+    font-size: 5vh;
+    margin: 0 1vw;
+}
+.social-bar-container a, .social-bar-container a:visited {
+    color: rgb(249, 246, 238);
+}

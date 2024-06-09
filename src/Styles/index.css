@@ -1,0 +1,13 @@
+:root {
+    --nav: rgb(249, 246, 238, 0.1);
+}
+body {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

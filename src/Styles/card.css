@@ -1,0 +1,18 @@
+.card-container * {
+    color: black; 
+}
+.card-container {
+    background-color: #f9f6ee;
+    padding: 15px;
+    min-width: 275px;
+    min-height: 342px;
+    margin-right: 10px;
+    box-shadow: 0 30px 60px 0 rgb(249, 246, 238, 0.4);
+}
+.card-container h1 {
+    text-align: center;
+}
+.card-container:hover{
+    width: 325px;
+    transition: all ease 0.5s;
+}

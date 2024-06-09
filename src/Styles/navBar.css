@@ -1,0 +1,27 @@
+.nav-bar {
+    /* background-color: var(--nav); */
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 5vh;
+}
+.menu-item {
+    padding: 20px;
+    margin: 20px;
+}
+.left-item, .right-item {
+    width: 33%;
+    font-size: 2vh;
+}
+.nav-item {
+    margin: 5px 10px;
+    color: #F9F6EE
+}
+.logo {
+    height: 10vh;
+}
+.rc-dropdown ul li a, .rc-dropdown ul li a:visited, .rc-dropdown path, .fa-headphones {
+    color: black;
+}

@@ -1,0 +1,3 @@
+The goal for this website is to both create accessable promotional material for Order 66 as well as create a higher quality and easily editable format for other music acts.
+
+Order 66 is a Hard Rock quintet from the Antelope Valley California on the edges of LA. For years Order 66 has been known as a high energy force of artistic expression and strives to bring their explosive performance to any stage 

@@ -1,0 +1,27 @@
+[
+    {
+        "name"      :       "Don Bakeman",
+        "full"      :       "./assets/image_carousel/Don.jpg",
+        "job"       :       "guitarist" 
+    },
+    {
+        "name"      :       "Johnny Mendoza",
+        "full"      :       "./assets/image_carousel/Johnny.jpg",
+        "job"       :       "bassist" 
+    },
+    {
+        "name"      :       "Grahmn Fletcher",
+        "full"      :       "./assets/image_carousel/Alex.jpg",
+        "job"       :       "vocalist"
+    },
+    {
+        "name"      :       "Codi Yost",
+        "full"      :       "./assets/image_carousel/Codi.jpg",
+        "job"       :       "drummer" 
+    },
+    {
+        "name"      :       "Chris Bousquet",
+        "full"      :       "./assets/image_carousel/Chris.jpg",
+        "job"       :       "guitarist" 
+    }
+]

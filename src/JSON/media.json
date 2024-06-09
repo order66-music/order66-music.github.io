@@ -1,0 +1,50 @@
+[
+    {
+        "title"         :       "Images",
+        "listItems"     :       
+        [
+            "Logos",
+            "Art",
+            "Photos"   
+        ],
+        "listItemsLinks":
+        [
+            "L",
+            "A",
+            "P"
+        ],
+        "downloadAll"   :       "DA"
+    },
+    {
+        "title"         :       "Music",
+        "listItems"     :       
+        [
+            "Black and Gold",
+            "Psycho Sluts From Hell",
+            "Bad Romance"   
+        ],
+        "listItemsLinks":
+        [
+            "B&G",
+            "PSFH",
+            "BR"
+        ],
+        "downloadAll"   :       "DA"
+    },
+    {
+        "title"         :       "Video",
+        "listItems"     :       
+        [
+            "Live Video",
+            "Music Video",
+            "Reunion Promo Video"   
+        ],
+        "listItemsLinks":
+        [
+            "LV",
+            "MV",
+            "RPV"
+        ],
+        "downloadAll"   :       "DA"
+    }
+]
